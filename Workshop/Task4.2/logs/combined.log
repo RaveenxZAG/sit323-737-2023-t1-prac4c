@@ -1,0 +1,4 @@
+{"level":"error","message":"Invalid input","service":"calculator-microservice"}
+{"level":"info","message":"New addition operation requested: 2 + 2 = 4","service":"calculator-microservice"}
+{"level":"info","message":"New addition operation requested: 2 + 2 = 4","service":"calculator-microservice"}
+{"level":"info","message":"New addition operation requested: 2 + 8 = 10","service":"calculator-microservice"}
